@@ -56,8 +56,8 @@ OPENWEATHER_API_KEY = '<key>'
 
 #### Landing Page
 
-![](Images/Index_page.png)
+![](images/Index_page.png)
 
 #### Campground Information
 
-![](Images/campground_info.PNG)
+![](images/campground_info.PNG)
