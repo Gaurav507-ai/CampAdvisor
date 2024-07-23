@@ -60,4 +60,4 @@ OPENWEATHER_API_KEY = '<key>'
 
 #### Campground Information
 
-![](images/campground_info.PNG)
+![](images/campground_info.png)
